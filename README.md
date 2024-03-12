@@ -16,4 +16,4 @@
 ## GitHub Stats        
 ![LanNan11's GitHub stats](https://github-readme-stats.vercel.app/api?username=LanNan11&theme=onedark_icons=true)
 
-This repo was inspired by [Adrian Twarog]([http://example.com](https://www.youtube.com/watch?v=KhGWbt1dAKQ)https://www.youtube.com/watch?v=KhGWbt1dAKQ)
+This repo was inspired by [Adrian Twarog] (https://www.youtube.com/watch?v=KhGWbt1dAKQ)https://www.youtube.com/watch?v=KhGWbt1dAKQ).
