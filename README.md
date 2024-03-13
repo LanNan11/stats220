@@ -6,7 +6,7 @@
 ## About me
 
 - 👋 Hi there, I’m @LanNan11
-- 👀 I’m interested in *data science*
+- 👀 I’m interested in **data science**
 - 🌱 I’m currently studying at the **University of Auckland**
 - ⚡ Skills:
      1. python
